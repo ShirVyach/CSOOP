@@ -1,0 +1,10 @@
+C:\Users\ShiVyach\Desktop\CSOOP\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\ShiVyach\Desktop\CSOOP\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\ShiVyach\Desktop\CSOOP\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\ShiVyach\Desktop\CSOOP\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\ShiVyach\Desktop\CSOOP\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\ShiVyach\Desktop\CSOOP\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\ShiVyach\Desktop\CSOOP\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\ShiVyach\Desktop\CSOOP\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\ShiVyach\Desktop\CSOOP\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\ShiVyach\Desktop\CSOOP\calculator\calculator\obj\Debug\calculator.pdb
