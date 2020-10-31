@@ -1,0 +1,9 @@
+C:\Users\ShiVyach\source\repos\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\ShiVyach\source\repos\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\ShiVyach\source\repos\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\ShiVyach\source\repos\LINQ\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\ShiVyach\source\repos\LINQ\LINQ\obj\Debug\LINQ.Properties.Resources.resources
+C:\Users\ShiVyach\source\repos\LINQ\LINQ\obj\Debug\LINQ.csproj.GenerateResource.cache
+C:\Users\ShiVyach\source\repos\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\ShiVyach\source\repos\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\ShiVyach\source\repos\LINQ\LINQ\obj\Debug\LINQ.pdb
