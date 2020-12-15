@@ -1,0 +1,9 @@
+C:\Users\anonh\source\repos\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\anonh\source\repos\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\anonh\source\repos\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\anonh\source\repos\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\anonh\source\repos\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\anonh\source\repos\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\anonh\source\repos\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\anonh\source\repos\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\anonh\source\repos\Chess\Chess\obj\Debug\Chess.pdb
