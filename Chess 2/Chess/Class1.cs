@@ -20,8 +20,8 @@ namespace Chess
     {        
         public override bool CheckPos(string pos)
         {
-            if ((Math.Abs(pos[0]) - Pos[0]) == 2 & (Math.Abs(pos[1] - Pos[0]) == 1) ||
-                (Math.Abs(pos[0]) - Pos[0]) == 1 & (Math.Abs(pos[1] - Pos[0]) == 2))
+            if (Math.Abs(pos[0] - Pos[0]) == 2 & Math.Abs(pos[1] - Pos[1]) == 1 ||
+                Math.Abs(pos[0] - Pos[0]) == 1 & Math.Abs(pos[1] - Pos[1]) == 2)
             {
                 return false;
             }
