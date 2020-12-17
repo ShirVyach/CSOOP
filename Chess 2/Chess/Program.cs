@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -33,8 +33,9 @@ namespace Chess
                 }
             }
 
-
             string[] text2 = text.Split(' ');
+
+            List<Chess> chess = new List<Chess>() { };
 
             for (int i = 0; i < text2.Length; i += 2)
             {
@@ -42,29 +43,26 @@ namespace Chess
                 {
                     rook.Pos = text2[i + 1];
                     rook.Name = text2[i];
-
-                    if (!rook.CheckPos(FigPos))
-                    {
-                        Console.WriteLine(false);
-                        Console.ReadLine();
-                        return;  
-                    }
+                    chess.Add(rook);
                 }
-
                 if (text2[i] == "H")
                 {
-
                     horse.Pos = text2[i + 1];
                     horse.Name = text2[i];
-
-                    if(horse.CheckPos(FigPos) == false)
-                    {
-                        Console.WriteLine(false);
-                        Console.ReadLine();
-                        return;
-                    }
+                    chess.Add(horse);
                 }
             }
+
+            foreach (Chess fig in chess)
+            {
+                if (fig.CheckPos(FigPos) == false)
+                {
+                    Console.WriteLine(false);
+                    Console.ReadLine();
+                    return;
+                }
+            }
+
 
             Console.WriteLine(true);
             Console.ReadLine();
